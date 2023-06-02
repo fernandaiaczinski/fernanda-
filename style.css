@@ -1,8 +1,10 @@
-body{ 
-    background-color: #7C00B7;
+header{
+background-color: #8ca2d3;
+display: flex;
 }
-<header>
-html
-.cabecalho-imagem{
-    width: 20%;
+.cabeçalho-img{
+    width: 20% 
+}
+.cabeçalho-lista-item{
+    display: inline-block;
 }
